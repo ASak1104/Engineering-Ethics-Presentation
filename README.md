@@ -1,6 +1,6 @@
-# Engineering-Ethics-Presentation
+# Engineering-Presentation
 ## Team-9
-| ÇĞ¹ø     | ÀÌ¸§   | ÀÌ¸ŞÀÏ                 |
+| í•™ë²ˆ     | ì´ë¦„   | ì´ë©”ì¼                 |
 | -------- | ------ | ---------------------- |
-| 20181596 | ±èÁØÇõ | moldmen@kookmin.ac.kr  |
-| 20181608 | ±èÇö¿ì | khw56184@kookmin.ac.kr |
+| 20181596 | ê¹€ì¤€í˜ | moldmen@kookmin.ac.kr  |
+| 20181608 | ê¹€í˜„ìš° | khw56184@kookmin.ac.kr |
